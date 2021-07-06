@@ -4,4 +4,4 @@ const express = require('express');
 
 const server = express();
 
-modules.exports = server;
+module.exports = server;
